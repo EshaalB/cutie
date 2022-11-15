@@ -1,0 +1,26 @@
+body{
+  background-color: black;
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 25px;
+  margin: 25px;
+  padding: 25px;
+
+}
+h1{
+  font-family: 'Pacifico', cursive;
+  text-align: center;
+  font-size: 50px;
+}
+p:hover{
+   font-size: 30px;
+   color: rgb(243, 85, 111);
+   transition: ease-in,0.5s;
+}
+h4{
+  text-align: right;
+}
+h4:hover{
+  color: red;
+}
+ 
